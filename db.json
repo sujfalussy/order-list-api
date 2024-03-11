@@ -1,7 +1,7 @@
 {
   "orders": [
-    { "orderNumber": 12345, 
-      "title": "Post 1" },
+    { "orderNumber": "12345", 
+      "title": "Post 1" }
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
